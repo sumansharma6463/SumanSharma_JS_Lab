@@ -1,1 +1,1 @@
-# SumanSharma_JS_Lab
+# **JavaScript Quiz Application**
